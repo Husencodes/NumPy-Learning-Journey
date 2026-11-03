@@ -19,7 +19,7 @@ This repository contains my daily learning notes, Python programs, practical exe
 
 | No. | Topic | Status |
 |---|---|---|
-| 01 | Introduction to NumPy |  Learning |
+| 01 | Introduction to NumPy |  Completed |
 | 02 | Array Creation | ⏳ Pending |
 | 03 | Array Attributes | ⏳ Pending |
 | 04 | Indexing and Slicing | ⏳ Pending |
