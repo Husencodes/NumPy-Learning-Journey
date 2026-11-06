@@ -21,9 +21,9 @@ This repository contains my daily learning notes, Python programs, practical exe
 |---|---|---|
 | 01 | Introduction to NumPy |  Completed |
 | 02 | Array Creation | Completed |
-| 03 | Array Attributes | ⏳ Pending |
+| 03 | Array Attributes | Completed  |
 | 04 | Indexing and Slicing | ⏳ Pending |
-| 05 | Array Operations | ⏳ Pending |
+| 05 | Array Operations | Completed  |
 | 06 | Mathematical Functions | ⏳ Pending |
 | 07 | Array Manipulation | ⏳ Pending |
 | 08 | Statistics | ⏳ Pending |
