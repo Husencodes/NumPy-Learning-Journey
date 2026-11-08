@@ -22,10 +22,10 @@ This repository contains my daily learning notes, Python programs, practical exe
 | 01 | Introduction to NumPy |  Completed |
 | 02 | Array Creation | Completed |
 | 03 | Array Attributes | Completed  |
-| 04 | Indexing and Slicing | ⏳ Pending |
+| 04 | Indexing and Slicing | Completed |
 | 05 | Array Operations | Completed  |
 | 06 | Mathematical Functions | ⏳ Pending |
-| 07 | Array Manipulation | ⏳ Pending |
+| 07 | Array Manipulation | Completed|
 | 08 | Statistics | ⏳ Pending |
 | 09 | Mini Projects | ⏳ Pending |
 
