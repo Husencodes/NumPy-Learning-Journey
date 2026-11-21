@@ -24,9 +24,9 @@ This repository contains my daily learning notes, Python programs, practical exe
 | 03 | Array Attributes | Completed  |
 | 04 | Indexing and Slicing | Completed |
 | 05 | Array Operations | Completed  |
-| 06 | Mathematical Functions | ⏳ Pending |
+| 06 | Mathematical Functions | ⏳ Completed |
 | 07 | Array Manipulation | Completed|
-| 08 | Statistics | ⏳ Pending |
+| 08 | Statistics | ⏳ Completed |
 | 09 | Mini Projects | ⏳ Pending |
 
 ##  Technologies
